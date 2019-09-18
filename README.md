@@ -62,7 +62,7 @@ import 'bee-progress/build/Progress.css';
 ### `type="dashboard"`
 
 | 参数 | 说明 | 类型 | 默认值 | 
-| --- | --- | --- | --- |
+| --- | --- | --- | --- | 
 | width | 仪表盘进度条画布宽度，单位 px | number | 132 |
 | strokeWidth | 仪表盘进度条线的宽度，单位是进度条画布宽度的百分比 | number | 6 |
 | gapDegree | 仪表盘进度条缺口角度，可取值 0 ~ 360 | number | 0 | 
